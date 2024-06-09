@@ -35,6 +35,7 @@ cd LogicExpresion
 ```
 To run the project:
 ```bash
+cd src
 javac ExpressionsTest.java
 java ExpressionsTest 
 ```
