@@ -1,0 +1,30 @@
+ 
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore build output directories
+out/
+build/
+target/
+
+# Ignore compiled files
+*.class
+
+# Maven wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
