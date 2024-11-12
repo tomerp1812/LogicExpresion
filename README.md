@@ -10,7 +10,7 @@ The LogicExpression Toolkit is a comprehensive Java framework designed to build,
 
 - **Expression Evaluation**: Dynamically evaluate expressions based on user-defined variable assignments.
 - **Expression Transformation**: Convert any expression into equivalent forms using solely NAND or NOR operations.
-- **Expression Simplification**: Reduce expressions to their simplest form, facilitating easier understanding and further manipulation.
+- **Expression Simplification**: Reduce expressions to their simplest form, facilitating easier understanding and further manipulation. 
 - **Robust Error Handling**: Efficiently handle cases where variables are unassigned or expressions are malformed.
 
 ## Object-Oriented Design
